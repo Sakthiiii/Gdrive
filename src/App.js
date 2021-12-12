@@ -9,13 +9,7 @@ import { auth, provider } from "./firebase";
 
 function App() {
 
-  // const [user, setUser] = useState({
-  //   displayName: "Suraj Adhikary",
-  //   email: "adhikarysuraj816@gmail.com",
-  //   emailVerified: true,
-  //   phoneNumber: null,
-  //   photoURL: "https://lh3.googleusercontent.com/ogw/ADGmqu94E2Y4kbPN_GrwZIi9LsvaQLw_0CDpgjydAjaI=s32-c-mo"
-  // })
+
 
   const [user, setUser] = useState();
 
